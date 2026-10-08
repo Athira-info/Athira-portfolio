@@ -2472,24 +2472,6 @@ section,
   box-shadow: 0 5px 15px color-mix(in srgb, var(--accent-color), transparent 60%);
 }
 
-
-
-
-/* TRIPLY Portfolio Image */
-.portfolio-wrap img.triply-image {
-  width: 100%;
-  height: 250px;
-  object-fit: cover;
-}
-
-
-
-
-
-
-
-
-
 @media (max-width: 992px) {
   .portfolio .portfolio-bottom .col-lg-4 {
     text-align: center !important;
